@@ -3,4 +3,15 @@
 
 ## Login
 
-<img src="https://github.com/k-kaundal/slinfy_crm_android/blob/master/screenshorts/login.png" width=200 height=700/>
+<img src="https://github.com/k-kaundal/slinfy_crm_android/blob/master/screenshorts/login.png" width=200 height=500/>
+
+
+## Register
+
+<img src="https://github.com/k-kaundal/slinfy_crm_android/blob/master/screenshorts/register.png" width=200 height=500/>
+
+
+
+## Forgot
+
+<img src="https://github.com/k-kaundal/slinfy_crm_android/blob/master/screenshorts/forgot.png" width=200 height=500/>

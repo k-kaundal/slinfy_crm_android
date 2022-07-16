@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "739839370266",
+    "project_id": "slinfy-crm-android",
+    "storage_bucket": "slinfy-crm-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739839370266:android:31e734c59e518a78945da3",
+        "android_client_info": {
+          "package_name": "com.whlinks.slinfycrmandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739839370266-6od5it3dgfnm7oco1jjgsl917rsa4tfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whlinks.slinfycrmandroid",
+            "certificate_hash": "97775bcf24847b926eed3e116040bf4620178b72"
+          }
+        },
+        {
+          "client_id": "739839370266-tm1hj7bcrn2gi66m6okbq3ilimd0bch1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9a0vblWPRxl4d6eTu4nr6YGWIXz9ceXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739839370266-tm1hj7bcrn2gi66m6okbq3ilimd0bch1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
